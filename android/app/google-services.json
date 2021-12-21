@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "620328981207",
+    "project_id": "winter-be348",
+    "storage_bucket": "winter-be348.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620328981207:android:85b78d0b07f39516629692",
+        "android_client_info": {
+          "package_name": "com.winter_project.winter_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620328981207-n05k2o9j2cbo0uqppd8s4s8tjbi33ovs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.winter_project.winter_project",
+            "certificate_hash": "c12b8f15bc1f28b03b0eab2ac3ee5bc5a57e21ca"
+          }
+        },
+        {
+          "client_id": "620328981207-q4aup879tkqkq12rhdtb2e01k251rogf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW0D9b02lWv4TTGIiGG86HHW22lKJlRhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620328981207-q4aup879tkqkq12rhdtb2e01k251rogf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
