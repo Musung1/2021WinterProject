@@ -4,7 +4,6 @@ admin.initializeApp();
 
 const firestore = admin.firestore();
 
-
 exports.onUserStatusChange = functions.database
   .ref("/{uid}/presence")
   .onUpdate(async (change, context) => {
