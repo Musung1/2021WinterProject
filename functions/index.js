@@ -13,7 +13,7 @@ exports.onUserStatusChange = functions.database
     // Get a reference to the Firestore document
     const userStatusFirestoreRef = firestore.doc(`users/${context.params.uid}`);
 
-    console.log(`status: ${isOnline}`);
+    console.log(`status: ${context.params.name}`);
 
     // Update the values on Firestore
     return userStatusFirestoreRef.update({
